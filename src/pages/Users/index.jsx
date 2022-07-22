@@ -1,13 +1,13 @@
 import { Layout } from "../../layout";
 
-export function Register() {
+export function Users() {
   return (
     <>
       <Layout>
         <div>
           <section>
             <div>
-             register
+             Users
             </div>
           </section>
         </div>
